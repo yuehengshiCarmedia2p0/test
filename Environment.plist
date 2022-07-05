@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>KEndPointWithoutPolicy</key>
+	<string>https://dev-login.carmedia2p0.com/tfp/c3d7ec63-33ae-46b9-ab9f-5e06b3a013ec</string>
+	<key>AppCenterAppSecret</key>
+	<string>2e7a18a4-421b-4cd1-b619-5804cb9696bf</string>
+	<key>KScopes1</key>
+	<string>https://carmedia2p0dev.onmicrosoft.com/b0aba807-9439-494d-945c-ee3726c19061/carmedia2p0.capture.api:access</string>
+	<key>KSignupOrSigninPolicy</key>
+	<string>B2C_1A_SIGNIN_CAPTURE</string>
+	<key>KAuthorityHostName</key>
+	<string>dev-login.carmedia2p0.com</string>
+	<key>KTenantName</key>
+	<string>c3d7ec63-33ae-46b9-ab9f-5e06b3a013ec</string>
+	<key>KRedirectURI</key>
+	<string>msauth.com.carmedia2p0.capture.dev://auth</string>
+	<key>KClientID</key>
+	<string>98c8867f-113e-4d9d-842d-3d49e21d98e2</string>
+	<key>APIBaseURL</key>
+	<string>https://dev-api-gateway.carmedia2p0.com/capture/1.0</string>
+	<key>KForgotPasswordPolicy</key>
+	<string>b2c_1a_passwordreset</string>
+	<key>GetInventoryListAPIURLPath</key>
+	<string>/dealers/capHi-pXFECO2SozmMb5QQ/vehicle-listings</string>
+	<key>InventoryCaptureSummaryAPIURLPath</key>
+	<string>/dealers/6rsl0lRsAUuP5tcBdI8IVN/inventory-capture-summary</string>
+	<key>CapturePlansAPIURLPath</key>
+	<string>/dealers/capHi-pXFECO2SozmMb5QQ/capture-plans</string>
+	<key>VehicleDetailAPIURLPath</key>
+	<string>/dealers/capHi-pXFECO2SozmMb5QQ/vehicle-listings/</string>
+	<key>UpdateInventoryCaptureStatusAPIURLPath</key>
+	<string>/dealers/capHi-pXFECO2SozmMb5QQ/vehicles/</string>
+	<key>FilterFacetsAPIURI</key>
+	<string>/dealers/6rsl0lRsAUuP5tcBdI8IVN/vehicle-inventory/filter-facets</string>
+</dict>
+</plist>

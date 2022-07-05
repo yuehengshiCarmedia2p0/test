@@ -91,7 +91,6 @@ iOSInjectionProject/
 
 **/.DS_Store
 EnvironmentLocal.plist
-Environment.plist
 sonar-project.properties
 run-sonar-swift.sh
 sonar-reports/
