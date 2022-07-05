@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>KEndPointWithoutPolicy</key>
-	<string>https://dev-login.carmedia2p0.com/tfp/c3d7ec63-33ae-46b9-ab9f-5e06b3a013ec</string>
+	<string></string>
 	<key>AppCenterAppSecret</key>
-	<string>2e7a18a4-421b-4cd1-b619-5804cb9696bf</string>
+	<string></string>
 	<key>KScopes1</key>
-	<string>https://carmedia2p0dev.onmicrosoft.com/b0aba807-9439-494d-945c-ee3726c19061/carmedia2p0.capture.api:access</string>
+	<string></string>
 	<key>KSignupOrSigninPolicy</key>
 	<string>B2C_1A_SIGNIN_CAPTURE</string>
 	<key>KAuthorityHostName</key>
